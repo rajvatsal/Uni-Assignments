@@ -16,7 +16,7 @@ make
 ## Windows
 
 ```code
-vendor/premake/unix vs2022 --file=build.lua
+vendor/premake/win vs2022 --file=build.lua
 ```
 
 Open generated `.sln` in Visual Studio
