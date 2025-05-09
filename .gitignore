@@ -1,0 +1,9 @@
+bin/
+.vs/
+
+Makefile
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
