@@ -6,10 +6,18 @@ Clone this repo
 git clone https://github.com/rajvatsal/Uni-Assignments.git && cd Uni-Assignments
 ```
 
-## Linux & MacOS
+## Linux
 
 ```code
-vendor/premake/unix --file=build.lua gmake && 
+vendor/premake/linux --file=build.lua gmake && 
+make 
+```
+
+## MacOS
+
+
+```code
+vendor/premake/macos --file=build.lua gmake && 
 make 
 ```
 
