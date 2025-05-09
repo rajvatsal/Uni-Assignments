@@ -3,10 +3,8 @@
 Clone this repo
 
 ```code
-git clone https://github.com/rajvatsal/Uni-Assignments.git
+git clone https://github.com/rajvatsal/Uni-Assignments.git && cd Uni-Assignments
 ```
-
-Run these commands at the root of this repo
 
 ## Linux & MacOS
 
