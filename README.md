@@ -31,8 +31,8 @@ Open generated `.sln` in Visual Studio
 
 ## About
 
-All the functions defined in Source can be used by main.c by including path(after Source) of the header files.
+All the functions defined in Source can be used by main.c by including path(after Source) of the header files, like so.
 
 ```code
-ex #include "nsa/nsa.h"
+#include "nsa/nsa.h"
 ```
